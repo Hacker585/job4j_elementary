@@ -1,5 +1,5 @@
 package ru.job4j;
-
+// Любая хуйня , VCS = Version Control System = Git (Система контроля версий)
 public class Multiply {
     public static void main(String [] args) {
         System.out.println("1*2=2");
@@ -11,4 +11,7 @@ public class Multiply {
         System.out.println("1*8=8");
         System.out.println("1*9=9");
     }
+    short age = 24;
+    char gender = 'M';
+
 }
